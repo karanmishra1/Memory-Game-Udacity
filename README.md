@@ -21,4 +21,5 @@ This was built in my FEND nanodegree program at Udacity. The purpose was to use 
 - CSS
 - Vanilla Javascript
 - Congratulations Modal made using sweetalert https://sweetalert.js.org/guides/#upgrading-from-1x
+- Icons taken from font awesome https://fontawesome.com/
 
