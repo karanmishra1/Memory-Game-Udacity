@@ -22,6 +22,3 @@ This was built in my FEND nanodegree program at Udacity. The purpose was to use 
 - Vanilla Javascript
 - Congratulations Modal made using sweetalert https://sweetalert.js.org/guides/#upgrading-from-1x
 
-### Please note
-
-There is an issue with the congratulations modal. When the user wins the moves reflects one less and number of star also reflects incorrectly if the star has just changed (for example if the star falls on the 20th move from 2 to 1 star it will show 2 stars in the modal). If someone can fix this it will be great :) 
