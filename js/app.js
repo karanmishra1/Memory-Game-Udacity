@@ -85,9 +85,6 @@ function compare(currentCard,previousCard) {
 
         openedCards = [];
 
-        // Check if the game is over !
-        isOver();
-
     }
     else {
 
@@ -102,6 +99,11 @@ function compare(currentCard,previousCard) {
 
     // Add New Move
     addMove();
+
+    if (currentCard.innerHTML === previousCard.innerHTML) {
+        // Check if the game is over !
+        isOver();
+    }
 }
 
 
